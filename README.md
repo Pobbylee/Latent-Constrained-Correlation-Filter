@@ -39,3 +39,9 @@ Acknowledgements
 [Chao Ma](https://sites.google.com/site/jbhuang0604/publications/cf2) "Hierarchical Convolutional Features for Visual Tracking", ICCV 2015
 
 [João F. Henriques](http://www.isr.uc.pt/~henriques/circulant/)，“High-Speed Tracking with Kernelized Correlation Filters“, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2015
+
+Contact
+-------
+Baochang Zhang
+
+bczhang@buaa.edu.cn
