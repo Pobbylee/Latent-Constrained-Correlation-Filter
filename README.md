@@ -7,20 +7,18 @@ This is the research code for the paper: Latent Constrained Correlation Filter�
 
 Run
 -------
-1.To run this code，you should download OTB-50 dataset first:
+**1.** To run this code，you should download OTB-50 dataset first:
+（1）You can just download it on http://pan.baidu.com/s/1pKTljWR without additional operations.
+（2）Or you can download OTB-50 by runing 'download_videos.m', but remember to make a copy of the 'jogging' folder into double, and rename it as 'Jogging-1' and 'Jogging-2' respectively. The label file 'groundtruth_rect.1.txt' and 'groundtruth_rect.2.txt' should be renamed as 'groundtruth_rect.txt'
 
-  You can just download it on http://pan.baidu.com/s/1pKTljWR without additional operations.
-  
-  Or you can download OTB-50 by runing 'download_videos.m', but remember to make a copy of the 'jogging' folder into double, and rename it as 'Jogging-1' and 'Jogging-2' respectively. The label file 'groundtruth_rect.1.txt' and 'groundtruth_rect.2.txt' should be renamed as 'groundtruth_rect.txt'
-
-2.We provide test code for LCCF on gary feature,hog feature and deep feature, which is compressed in two documents respectively。According to our experiments，LCCF obtained accuracy improvement on all of these features.
+**2.** We provide test code for LCCF on gary feature,hog feature and deep feature, which is compressed in two documents respectively。According to our experiments，LCCF obtained accuracy improvement on all of these features.
 
 Feature | Gray    | Hog       | VGG-19|
 --------|:-------:|:---------:|:---------:
 KCF     | 56.1%   | 74.0%     | 89.1%
 LC_KCF  | 56.9%   | 79.2%     | 89.6%
 
-3.Just start with 'run_tracker.m'
+**3.** Just start with 'run_tracker.m'
 
 Citation
 -------
