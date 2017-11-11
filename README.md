@@ -15,15 +15,12 @@ Run
 
 2.We provide test code for LCCF on gary feature,hog feature and deep feature, which is compressed in two documents respectively。According to our experiments，LCCF obtained accuracy improvement on all of these features.
 
-Feature | Gray | Hog | VGG-19
+Feature | Gray    | Hog       | VGG-19|
+--------|:-------:|:---------:|:---------:
+KCF     | 56.1%   | 74.0%     | 89.1%
+LC_KCF  | 56.9%   | 79.2%     | 89.6%
 
---------|:-------:|:---------:|
-
-KCF  | 56.1% | 74.0% | 89.1%|
-
-LC_KCF | 56.9% | 79.2%| 89.6%|
-
-  3.Just start with 'run_tracker.m'
+3.Just start with 'run_tracker.m'
 
 Citation
 -------
