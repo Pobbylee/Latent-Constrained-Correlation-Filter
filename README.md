@@ -29,7 +29,7 @@ If you find these code useful, please consider to cite our paper：
 ```bibtex
 @article{Zhang2017Latent,
   title={Latent Constrained Correlation Filter},
-  author={Baochang Zhang, Shangzhen Luan, Chen Chen, Jungong Han, Wei Wang, Alessandro Perina and Ling   Shao},
+  author={Baochang Zhang, Shangzhen Luan, Chen Chen, Jungong Han, Wei Wang, Alessandro Perina and Ling Shao},
   journal={IEEE Transactions on Image Processing},
   year={2017},
 }
