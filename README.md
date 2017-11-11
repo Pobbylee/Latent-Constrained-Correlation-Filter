@@ -26,13 +26,14 @@ LC_KCF  | 56.9%   | 79.4%     | 89.6%
 Citation
 -------
 If you find these code useful, please consider to cite our paper：
+```bibtex
 @article{Zhang2017Latent,
   title={Latent Constrained Correlation Filter},
-  author={Baochang Zhang, Shangzhen Luan, Chen Chen, Jungong Han, Wei Wang, Alessandro Perina and Ling Shao},
+  author={Baochang Zhang, Shangzhen Luan, Chen Chen, Jungong Han, Wei Wang, Alessandro Perina and Ling   Shao},
   journal={IEEE Transactions on Image Processing},
   year={2017},
 }
-
+```
 Acknowledgements
 -------
 [Chao Ma](https://sites.google.com/site/jbhuang0604/publications/cf2) "Hierarchical Convolutional Features for Visual Tracking", ICCV 2015
