@@ -2,7 +2,7 @@ Latent-Constrained-Correlation-Filter
 ========
 Introduction
 -------
-This is the research code for the paper: Latent Constrained Correlation Filter，which has been accepted by IEEE Transcation on Image Processing recently.
+This is the research code for the paper: Latent Constrained Correlation Filter，which has been accepted by IEEE Transcation on Image Processing recently. In this paper we propose a new method, named latent constrained correlation filters (LCCF), by mapping the correlation filters to a given latent subspace, and develop a new learning framework in the latent subspace that embeds distribution-related constraints into the original problem. To solve the optimization problem, we introduce a subspace based alternating direction method of multipliers (SADMM), which is proven to converge at the saddle point. Our approach is successfully applied to three different tasks, including eye localization, car detection and object tracking. Extensive experiments demonstrate that LCCF achieve state-of-the-art.
 
 ![idea](https://raw.githubusercontent.com/bczhangbczhang/Latent-Constrained-Correlation-Filter/master/idea.jpg)
 
