@@ -3,7 +3,7 @@ Latent-Constrained-Correlation-Filter
 Introduction
 -------
 This is the research code for the paper: Latent Constrained Correlation Filter，which has been accepted by IEEE Transcation on Image Processing recently.
-
+![image](http://github.com/bczhangbczhang/Latent-Constrained-Correlation-Filter/raw/master/mainidea.jpg)
 
 Run
 -------
@@ -18,7 +18,7 @@ Run
 Feature | Gray    | Hog       | VGG-19|
 --------|:-------:|:---------:|:---------:
 KCF     | 56.1%   | 74.0%     | 89.1%
-LC_KCF  | 56.9%   | 79.2%     | 89.6%
+LC_KCF  | 56.9%   | 79.4%     | 89.6%
 
 **3.** Just start with 'run_tracker.m'
 
