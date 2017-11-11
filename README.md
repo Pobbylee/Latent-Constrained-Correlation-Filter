@@ -3,7 +3,7 @@ Latent-Constrained-Correlation-Filter
 Introduction
 -------
 This is the research code for the paper: Latent Constrained Correlation Filter，which has been accepted by IEEE Transcation on Image Processing recently.
-![github](http://github.com/bczhangbczhang/Latent-Constrained-Correlation-Filter/raw/master/mainidea.jpg)
+![idea](http://github.com/bczhangbczhang/Latent-Constrained-Correlation-Filter/raw/master/idea.jpg)
 
 Run
 -------
